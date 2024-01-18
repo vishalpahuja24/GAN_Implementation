@@ -1,1 +1,2 @@
-# GAN_Implementation
+# GAN Image Generation Project
+This project implements a Generative Adversarial Network (GAN) to generate diverse and realistic images. The dataset, consisting of over 1000 images, underwent preprocessing for optimal model performance. The GAN is trained to produce high-quality images through an iterative process, with the generator creating images from random noise and the discriminator distinguishing between real and generated images. The final model demonstrates its ability to generate convincing and varied images, evaluated through quantitative metrics like Frechet Inception Distance (FID) and qualitative visual inspection. The project includes code, training details, and insights into model deployment for further exploration.
